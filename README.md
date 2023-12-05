@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+Most of my public code now [lives on sourcehut](https://git.sr.ht/~kassouni/).
 
 <!--
 **kassouni/kassouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
