@@ -1,6 +1,5 @@
-### Hello!
-
-Most of my public code now [lives on sourcehut](https://git.sr.ht/~kassouni/).
+# I'm slowly moving my public code over to [sourcehut](https://git.sr.ht/~kassouni/).
+This will be more up to date with my recent work.
 
 <!--
 **kassouni/kassouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
